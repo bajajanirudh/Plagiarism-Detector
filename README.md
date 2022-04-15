@@ -1,11 +1,8 @@
-# Plagiarism Detection with Python
+# Plagiarism - Detector
+This repository contains code and associated files for deploying a plagiarism detector using Flask.
 
-Finds percentage similarity between inputted text and relevant articles on the web.
-
-## Website Link:
-http://plagiarism-detection--hariambethkar.repl.co/
-
-## How To:
-- Click on the link to the website
-- Enter or paste your text in the input field
-- Click on `Generate Report`
+## How to install and run
+1. Download a zip file containing all the code files in this repository.
+2. Extract them and open them in VS Code or any other alternative.
+3. Then run the main.py file on server.
+4. You will get a link to the website, open that link and then paste the required text, submit it, you wil get all the links from where the text is plagiarized.
