@@ -24,7 +24,7 @@ A web application to check if a document's contents are plagiarised or not.
 Clone the project
 
 ```bash
-  git clone git@github.com:Aayush-Gangwar/Plagiarism-Detector.git
+  git clone git@github.com:bajajanirudh/Plagiarism-Detector.git
 ```
 
 Install dependencies
