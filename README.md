@@ -18,6 +18,10 @@ A web application to check if a document's contents are plagiarised or not.
 
 ![Plagiarised data](https://user-images.githubusercontent.com/101112022/176243664-b834606f-f7e4-49eb-b245-bf7b1262718f.png)
 
+## Demo Video:
+
+https://user-images.githubusercontent.com/91120579/177050080-b0e1dcb5-99df-4c98-a3ff-a56e8479951e.mp4
+
 
 ## Run Locally
 
